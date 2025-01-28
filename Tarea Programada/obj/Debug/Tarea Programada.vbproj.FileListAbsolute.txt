@@ -1,0 +1,24 @@
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea_Programada.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea_Programada.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.exe
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.pdb
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.xml
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.exe
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.xml
+C:\Users\Usuario\OneDrive\Documentos\Universidad\V Cuatrimestre\Programación IV\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.pdb
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.exe.config
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.exe
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.pdb
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\bin\Debug\Tarea Programada.xml
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.AssemblyReference.cache
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea_Programada.Form1.resources
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea_Programada.Resources.resources
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.GenerateResource.cache
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.vbproj.CoreCompileInputs.cache
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.exe
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.xml
+C:\Users\keyne\OneDrive\Documentos\Universidad\Protafalio de Proyectos\Proyectos VS Basic\Tarea Programada\Tarea Programada\obj\Debug\Tarea Programada.pdb

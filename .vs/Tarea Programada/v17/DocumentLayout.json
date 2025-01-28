@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF9E29-6E17-4F9F-9B44-0123DA2BF5D2}|Tarea Programada\\Tarea Programada.vbproj|c:\\users\\keyne\\onedrive\\documentos\\universidad\\protafalio de proyectos\\proyectos vs basic\\tarea programada\\tarea programada\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71BF9E29-6E17-4F9F-9B44-0123DA2BF5D2}|Tarea Programada\\Tarea Programada.vbproj|solutionrelative:tarea programada\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BF9E29-6E17-4F9F-9B44-0123DA2BF5D2}|Tarea Programada\\Tarea Programada.vbproj|C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\tarea programada\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71BF9E29-6E17-4F9F-9B44-0123DA2BF5D2}|Tarea Programada\\Tarea Programada.vbproj|solutionrelative:tarea programada\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
+              "RelativeDocumentMoniker": "Tarea Programada\\Form1.vb",
+              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
+              "RelativeToolTip": "Tarea Programada\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-25T23:54:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
+              "RelativeDocumentMoniker": "Tarea Programada\\Form1.vb",
+              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea Programada\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-25T23:54:30.976Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
