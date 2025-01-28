@@ -30,3 +30,9 @@ y diferente a la anterior.
 ### Interfaz de la aplicación
 
 ![Interfaz](image.png)
+
+### ¿Como usar?
+
+1. Clonar el repositorio `https://github.com/Keyner-Mena/Memory-game-VS.git`
+2. Abrir el archivo **_Tarea Programada.sln_** con Visual Studio 2022
+3. Ejecutar
