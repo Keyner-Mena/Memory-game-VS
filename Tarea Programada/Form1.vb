@@ -195,6 +195,8 @@
 
     Private Sub btnIniciar_Click(sender As Object, e As EventArgs) Handles btnIniciar.Click
         MsgBox("El temporizador va a comenzar! Arma parejas de cartas para ganar", MsgBoxStyle.Information)
+        Label3.Visible = False
+
 
         Timer1.Enabled = True
         Timer1.Start()
@@ -206,4 +208,6 @@
             picBox.Enabled = True
         Next
     End Sub
+
+
 End Class

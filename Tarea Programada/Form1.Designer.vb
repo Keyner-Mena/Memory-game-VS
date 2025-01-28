@@ -89,7 +89,7 @@ Partial Class Form1
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("PMingLiU-ExtB", 21.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label1.Location = New System.Drawing.Point(391, 11)
+        Me.Label1.Location = New System.Drawing.Point(382, 28)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(292, 37)
@@ -285,12 +285,12 @@ Partial Class Form1
         '
         Me.Label3.AutoSize = True
         Me.Label3.BackColor = System.Drawing.Color.Transparent
-        Me.Label3.Font = New System.Drawing.Font("Perpetua Titling MT", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Font = New System.Drawing.Font("Perpetua Titling MT", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label3.Location = New System.Drawing.Point(173, 54)
+        Me.Label3.Location = New System.Drawing.Point(211, 75)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(697, 41)
+        Me.Label3.Size = New System.Drawing.Size(620, 36)
         Me.Label3.TabIndex = 35
         Me.Label3.Text = "Presiona en ""Iniciar"" para comenzar"
         '
@@ -373,7 +373,7 @@ Partial Class Form1
         Me.BackColor = System.Drawing.Color.ForestGreen
         Me.BackgroundImage = Global.Tarea_Programada.My.Resources.Resources.fondo_mesa
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(1116, 859)
+        Me.ClientSize = New System.Drawing.Size(1116, 960)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.lblminutos)
         Me.Controls.Add(Me.PictureBox17)

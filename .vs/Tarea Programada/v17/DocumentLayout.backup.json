@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
               "RelativeDocumentMoniker": "Tarea Programada\\Form1.vb",
-              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb*",
-              "RelativeToolTip": "Tarea Programada\\Form1.vb*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
+              "RelativeToolTip": "Tarea Programada\\Form1.vb",
+              "ViewState": "AgIAALsAAAAAAAAAAADgv8UAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-25T23:54:53.08Z",
               "EditorCaption": ""
@@ -43,8 +39,8 @@
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb",
               "RelativeDocumentMoniker": "Tarea Programada\\Form1.vb",
-              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb [Dise\u00F1o]*",
-              "RelativeToolTip": "Tarea Programada\\Form1.vb [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\keyne\\OneDrive\\Documentos\\Universidad\\Protafalio de Proyectos\\Proyectos VS Basic\\Tarea Programada\\Tarea Programada\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea Programada\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-25T23:54:30.976Z",
               "EditorCaption": " [Dise\u00F1o]"
